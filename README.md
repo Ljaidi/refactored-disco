@@ -5,6 +5,9 @@
   Add your open source license, GitHub uses Creative Commons Attribution 4.0 International.
 -->
 
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FLjaidi%2Frefactored-disco.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FLjaidi%2Frefactored-disco?ref=badge_large)
+
 # Introduction to GitHub
 
 _Get started using GitHub in less than an hour._
@@ -39,6 +42,7 @@ People use GitHub to build some of the most advanced technologies in the world. 
 
 1. Right-click **Start course** and open the link in a new tab.
    <br />[![start-course](https://user-images.githubusercontent.com/1221423/218596841-0645fe1a-4aaf-4f51-9ab3-8aa2d3fdd487.svg)](https://github.com/skills/introduction-to-github/generate)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FLjaidi%2Frefactored-disco.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FLjaidi%2Frefactored-disco?ref=badge_shield)
 2. In the new tab, follow the prompts to create a new repository.
    - For owner, choose your personal account or an organization to host the repository.
    - We recommend creating a public repository—private repositories will [use Actions minutes](https://docs.github.com/en/billing/managing-billing-for-github-actions/about-billing-for-github-actions).
